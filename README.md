@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ClassPro**
 
-- 🌱 I’m currently learning **JAVA,REACT NATIVE**
+- 🌱 I’m currently learning **JAVA,REACT NATIVE, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rinas21](https://github.com/rinas21)
 
