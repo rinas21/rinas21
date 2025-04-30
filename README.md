@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinas21" alt="rinas21" /></a> </p>
 
-- 🔭 I’m currently working on **ClassPro**
-
-- 🌱 I’m currently learning **JAVA,REACT NATIVE, Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rinas21](https://github.com/rinas21)
 
 - 📫 How to reach me **mohomadrinas00@gmail.com**
