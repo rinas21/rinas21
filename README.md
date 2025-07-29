@@ -13,7 +13,7 @@
 
 ### 📫 Reach Me
 - 💼 Portfolio: [github.com/rinas21](https://github.com/rinas21)
-- 📧 Email: **mohomadrinas00@gmail.com**
+
 
 ---
 
