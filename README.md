@@ -1,5 +1,4 @@
 # Hi 👋, I'm Rinas
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Passionate+Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
@@ -7,16 +6,15 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF">
 
 ### 🚀 About Me
-
 I'm a passionate **Software Engineering** student at the **Open University of Sri Lanka** and currently working as a **Software Engineer** at **hSenid Mobile Solutions (Pvt) Ltd**. I'm dedicated to leveraging technology to build impactful and forward-thinking solutions, with core strengths in full-stack development where I merge solid engineering principles with user-centric design.
 
-- 🔭 Currently working as a **Software Engineer** at hSenid Mobile Solutions
-- 🌱 Deepening my skills in **AI/ML, Backend Development, Cloud Infrastructure & DevOps**
-- 👨‍💻 Experience in **Quality Assurance Engineering** and **Software Development**
-- 🏆 **IBM Certified** in Artificial Intelligence Fundamentals & **Neo4j Certified Professional**
-- 💬 Ask me about **Full-Stack Development, QA Engineering, AI/ML, or DevOps**
-- 📫 Reach me at: **mohomadrinas00@gmail.com**
-- 🌐 Portfolio: **[rinas21.github.io/amrinas](https://rinas21.github.io/amrinas/)**
+- 🔭 Currently working as a **Software Engineer** at hSenid Mobile Solutions  
+- 🌱 Deepening my skills in **AI/ML, Backend Development, Cloud Infrastructure & DevOps**  
+- 👨‍💻 Experienced in **Quality Assurance Engineering** and **Software Development**  
+- 🏆 **IBM Certified** in Artificial Intelligence Fundamentals & **Neo4j Certified Professional**  
+- 💬 Ask me about **Full-Stack Development, QA Engineering, AI/ML, or DevOps**  
+- 🌐 Portfolio: **[rinas21.github.io/amrinas](https://rinas21.github.io/amrinas/)**  
+- 🔗 Let’s connect on **[LinkedIn](https://linkedin.com/in/amrinas)**  
 - ⚡ Fun fact: I believe every bug is just an undocumented feature waiting to be discovered!
 
 <br clear="right"/>
@@ -72,7 +70,6 @@ I'm a passionate **Software Engineering** student at the **Open University of Sr
 
 ### 🧪 Quality Assurance & Testing
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
@@ -84,49 +81,45 @@ I'm a passionate **Software Engineering** student at the **Open University of Sr
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
 </p>
 
 ## 💼 Professional Experience
 
-### 🚀 Current Role
-**Software Engineer** at **hSenid Mobile Solutions (Pvt) Ltd** *(Jan 2025 - Present)*
-- Collaborating with cross-functional teams to design, build, and deliver new features
-- Participating in code reviews to maintain clean, efficient, and maintainable code
-- Troubleshooting and resolving software issues across multiple projects
-- Working with DevOps tools to streamline and automate deployment processes
-- Supporting integration of emerging technologies to enhance team productivity
+### 🚀 Software Engineer  
+**hSenid Mobile Solutions (Pvt) Ltd** *(Jan 2025 – Present)*
+- Collaborating with cross-functional teams to design, build, and deliver new features.
+- Participating in code reviews to ensure clean, efficient, and maintainable code.
+- Troubleshooting and resolving software issues across multiple projects.
+- Working with DevOps tools to automate and streamline deployment processes.
+- Supporting integration of emerging technologies to enhance productivity.
 
-### 🧪 Previous Experience
-**Software Quality Assurance Engineer** at **hSenid Mobile Solutions (Pvt) Ltd** *(Jan 2024 - Dec 2024)*
-- Conducted comprehensive manual and regression testing on web and software applications
-- Collaborated with developers to reproduce and troubleshoot issues efficiently
-- Created and maintained detailed test cases and testing environments
-- Executed performance and integration testing scripts to validate system reliability
+### 🧪 Software Quality Assurance Engineer  
+**hSenid Mobile Solutions (Pvt) Ltd** *(Jan 2024 – Dec 2024)*
+- Conducted comprehensive manual and regression testing on web and desktop applications.
+- Collaborated with developers to reproduce and resolve issues efficiently.
+- Created and maintained detailed test cases and testing environments.
+- Executed performance and integration tests to validate system reliability.
 
 ## 🏆 Certifications & Achievements
-
 <div align="center">
   <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI Certification"/>
   <img src="https://img.shields.io/badge/Neo4j-Certified_Professional-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Certification"/>
   <img src="https://img.shields.io/badge/25+-Certifications-00C851?style=for-the-badge&logo=certificate&logoColor=white" alt="25+ Certifications"/>
 </div>
 
+## 📊 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinas21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinas21&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinas21&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rinas21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 📊 GitHub Statistics
-
+## 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/amrinas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -137,7 +130,7 @@ I'm a passionate **Software Engineering** student at the **Open University of Sr
   <a href="https://github.com/rinas21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.youtube.com/c/code with rinas" target="_blank">
+  <a href="https://www.youtube.com/c/code%20with%20rinas" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/rinasofficial" target="_blank">
@@ -146,19 +139,9 @@ I'm a passionate **Software Engineering** student at the **Open University of Sr
   <a href="https://www.hackerrank.com/a.m.rinas" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="mailto:mohomadrinas00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <img src="https://github.com/rinas21/rinas21/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rinas21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
@@ -169,7 +152,5 @@ I'm a passionate **Software Engineering** student at the **Open University of Sr
 </div>
 
 <div align="center">
-  
-  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
-  
+  <strong>Thanks for visiting! Let's connect and build something amazing together! 🚀</strong>
 </div>
