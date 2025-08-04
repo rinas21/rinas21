@@ -3,39 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;QA+%26+DevOps+Enthusiast;Passionate+about+AI+%26+Data" alt="Typing SVG" />
 </div>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF">
-
 ### 🚀 About Me
 I'm a passionate **Software Engineering** undergraduate at the **Open University of Sri Lanka** and currently working as a **Software Engineer** at **hSenid Mobile Solutions (Pvt) Ltd**. I'm dedicated to building scalable, real-world software solutions across full-stack development, DevOps, QA, and data analytics.
 
 - 🔭 Currently working on **real-time systems, DevOps automation, and cloud integration**
 - 🌱 Deepening expertise in **AI/ML, Data Engineering, Cloud (GCP), and Kubernetes**
 - 👨‍💻 Experienced in **Full-Stack Development, QA Engineering, and System Monitoring**
-- 🏆 **IBM Certified in AI Fundamentals** | **Neo4j Certified Professional**
-- 💬 Ask me about **React, Node.js, Java, Python, Docker, Grafana, or Data Pipelines**
+- 💬 Ask me about **Java, Python, Docker, Grafana, or Data Pipelines**
 - 🌐 Portfolio: **[rinas21.github.io/amrinas](https://rinas21.github.io/amrinas/)**
 - 🔗 Let’s connect on **[LinkedIn](https://linkedin.com/in/amrinas)**
-- ⚡ Fun fact: *“Every bug is just an undocumented feature waiting to be discovered!”*
 
 <br clear="right"/>
-
-## 💼 Professional Experience
-
-### 🚀 Software Engineer 
-**hSenid Mobile Solutions (Pvt) Ltd** | *Jan 2025 – Present*  
-- Developing new features and resolving issues in production-grade applications.
-- Participating in **code reviews, DevOps automation, and agile sprints**.
-- Contributing to **deployment workflows, CI/CD pipelines, and system integrations**.
-- Working with **Java, React, Node.js, GCP, Docker, and REST APIs**.
-
-### 🧪 Software Quality Assurance Engineer
-**hSenid Mobile Solutions (Pvt) Ltd** | *Jan 2024 – Dec 2024*  
-- Conducted **manual, regression, and API testing** to ensure software reliability.
-- Built **test environments, automation scripts, and pipelines** using Postman & JMeter.
-- Collaborated with developers to resolve bugs and improve product quality.
-- Tools: **Wireshark, REST APIs, Shell Scripting, Jira, SQL, JavaScript**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -102,6 +80,7 @@ I'm a passionate **Software Engineering** undergraduate at the **Open University
   <img src="https://img.shields.io/badge/Wireshark-0088CC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
 ### 🎨 Design & Other Tools
@@ -117,6 +96,22 @@ I'm a passionate **Software Engineering** undergraduate at the **Open University
 </p>
 
 ---
+
+## 💼 Professional Experience
+
+### 🚀 Software Engineer 
+**hSenid Mobile Solutions (Pvt) Ltd** | *Jan 2025 – Present*  
+- Developing new features and resolving issues in production-grade applications.
+- Participating in **code reviews, DevOps automation, and agile sprints**.
+- Contributing to **deployment workflows, CI/CD pipelines, and system integrations**.
+- Working with **Java, React, Node.js, GCP, Docker, and REST APIs**.
+
+### 🧪 Software Quality Assurance Engineer
+**hSenid Mobile Solutions (Pvt) Ltd** | *Jan 2024 – Dec 2024*  
+- Conducted **manual, regression, and API testing** to ensure software reliability.
+- Built **test environments, automation scripts, and pipelines** using Postman & JMeter.
+- Collaborated with developers to resolve bugs and improve product quality.
+- Tools: **Wireshark, REST APIs, Shell Scripting, Jira, SQL, JavaScript**
 
 ---
 
