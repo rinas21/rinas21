@@ -21,14 +21,14 @@ I'm a passionate **Software Engineering** undergraduate at the **Open University
 
 ## 💼 Professional Experience
 
-### 🚀 Software Engineer (Trainee)  
+### 🚀 Software Engineer 
 **hSenid Mobile Solutions (Pvt) Ltd** | *Jan 2025 – Present*  
 - Developing new features and resolving issues in production-grade applications.
 - Participating in **code reviews, DevOps automation, and agile sprints**.
 - Contributing to **deployment workflows, CI/CD pipelines, and system integrations**.
 - Working with **Java, React, Node.js, GCP, Docker, and REST APIs**.
 
-### 🧪 Software Quality Assurance Engineer (Trainee)  
+### 🧪 Software Quality Assurance Engineer
 **hSenid Mobile Solutions (Pvt) Ltd** | *Jan 2024 – Dec 2024*  
 - Conducted **manual, regression, and API testing** to ensure software reliability.
 - Built **test environments, automation scripts, and pipelines** using Postman & JMeter.
