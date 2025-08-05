@@ -146,11 +146,7 @@ I'm a passionate **Software Engineering** undergraduate at the **Open University
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rinas21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
-<!-- Added animated GitHub activity heatmap graph -->
-<div align="center">
-  <h3>📈 GitHub Activity</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=rinas21&theme=tokyonight" width="800" alt="GitHub Activity Graph"/>
-</div>
+
 ---
 
 ## 🌐 Connect With Me
