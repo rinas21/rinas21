@@ -1,4 +1,6 @@
-# Hi 👋, I'm Rinas
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Rinas
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;QA+%26+DevOps+Enthusiast;Passionate+about+AI+%26+Data" alt="Typing SVG" />
 </div>
