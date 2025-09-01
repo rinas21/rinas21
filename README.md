@@ -193,7 +193,9 @@ I'm a passionate **Software Engineering** undergraduate at the **Open University
   <h3>💭 Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=180%"/>
+</div>
 <div align="center">
   <strong>Thanks for visiting! Let’s connect and build something amazing together! 🚀</strong>
 </div>
