@@ -6,7 +6,7 @@
 </div>
 
 ### 🚀 About Me
-I'm a passionate **Software Engineering** undergraduate at the **Open University of Sri Lanka** and currently working as a **Software Engineer** at **hSenid Mobile Solutions (Pvt) Ltd**. I'm dedicated to building scalable, real-world software solutions across full-stack development, DevOps, QA, and data analytics.
+I'm a passionate **Software Engineering** at **Software Engineer** at **hSenid Mobile Solutions (Pvt) Ltd**. I'm dedicated to building scalable, real-world software solutions across full-stack development, DevOps, QA, and data analytics.
 
 - 🔭 Currently working on **real-time systems, DevOps automation, and cloud integration**
 - 🌱 Deepening expertise in **AI/ML, Data Engineering, Cloud (GCP), and Kubernetes**
