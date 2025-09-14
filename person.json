@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "A.M. Rinas",
+  "alternateName": ["AM Rinas", "Rinas AM", "A M Rinas"],
+  "jobTitle": "Software Engineer",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "hSenid Mobile Solutions (Pvt) Ltd"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Open University of Sri Lanka"
+  },
+  "url": "https://rinas21.github.io/amrinas/",
+  "sameAs": [
+    "https://qamastery.blogspot.com",
+    "https://www.youtube.com/@rinas0",
+    "https://www.researchgate.net/profile/Mohomad-Rinas",
+    "https://rinas21.github.io/amrinas"
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Full-Stack Development",
+    "DevOps",
+    "Cloud Computing",
+    "Python",
+    "Java",
+    "Docker"
+  ]
+}
+</script>
